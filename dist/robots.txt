@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kryssordhjelperen.no/sitemap.xml
+Sitemap: https://kryssordeksperten.no/sitemap.xml
